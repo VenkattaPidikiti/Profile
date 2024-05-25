@@ -1,14 +1,14 @@
                                            VENKATA RAVIKUMAR PIDIKITI 
                 Hyderabad, India • venkatta@outlook.com •www.linkedin.com/in/venkattapidikiti  
 
-Accomplished technology leader with a proven track record of delivering high-impact solutions for Fortune 500 companies. Expertise in 
-managing complex projects, transformations, building strategic partnerships, and exceeding client expectations. Skilled in leading cross
-functional teams to implement innovative solutions that achieve significant revenue growth and business alignment. 
+Accomplished technology leader with a proven track record of delivering high-impact solutions for Fortune 500 companies. Expertise in managing complex projects, transformations, building strategic partnerships, and exceeding client expectations. Skilled in leading crossfunctional teams to implement innovative solutions that achieve significant revenue growth and business alignment. 
 
 Skills 
-    Agile Methodologies            Technical Program Management       IT Business continuity      Product Development&Management    
-    Risk Management & Mitigation         Operational Excellence             Enterprise Architecture     IT Solution & Cloud Architecture 
-    Cross-functional Program Management  Strategy Planning & Execution      Technology Transformation   Business Analytics 
+
+Agile Methodologies                  Technical Program Management      IT Business continuity      
+Product Development&Management       Risk Management & Mitigation      Operational Excellence 
+Enterprise Architecture              IT Solution & Cloud Architecture  Digital Transformation
+Cross-functional Program Management  Strategy Planning & Execution     Business Analytics 
 
 Latest Work History 
 Project Manager, Program Manager April 2007-March 2023  Wipro, Hyderabad, India 
