@@ -6,7 +6,7 @@ managing complex projects, transformations, building strategic partnerships, and
 functional teams to implement innovative solutions that achieve significant revenue growth and business alignment. 
 
 Skills 
-    Agile Methodologies                  Technical Program Management       IT Business continuity      Product Development&Management    
+    Agile Methodologies            Technical Program Management       IT Business continuity      Product Development&Management    
     Risk Management & Mitigation         Operational Excellence             Enterprise Architecture     IT Solution & Cloud Architecture 
     Cross-functional Program Management  Strategy Planning & Execution      Technology Transformation   Business Analytics 
 
